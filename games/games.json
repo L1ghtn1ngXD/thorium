@@ -6,6 +6,13 @@
       "description": "Chill, just chill, thats all you can do in this game.",
       "image": "https://raw.githubusercontent.com/L1ghtn1ngXD/thorium/main/games/Baseplate.png",
       "gameid": "1"
+    },
+    {
+      "title": "Line Runner",
+      "file": "https://raw.githubusercontent.com/L1ghtn1ngXD/thorium/main/games/LineRunner.rbxl",
+      "description": "This game has no description.",
+      "image": "https://raw.githubusercontent.com/L1ghtn1ngXD/thorium/main/games/LineRunner.png",
+      "gameid": "1"
     }
   ]
 }
